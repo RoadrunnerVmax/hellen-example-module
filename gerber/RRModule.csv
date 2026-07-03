@@ -1,2 +1,7 @@
 "Comment","Designator","Footprint","LCSC Part #"
+"~","KDFI1","kdFiFootprint:KDFI_V1.4_MODULE",""
 "Module-mega-mcu144-0.7","M1","0.7:mega-mcu144",""
+"Module-can-0.1","M2","CAN v0.1:can",""
+"Module-input-0.1","M3","IN v0.1:input",""
+"Module-ign8-0.2","M4","IGN8 v0.2:ign8",""
+"Module-power_12and5V-0.3","M5","PWR v0.3:power_12and5V",""
