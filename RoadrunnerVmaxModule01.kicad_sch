@@ -6591,7 +6591,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 82.55) (xy 63.5 73.66)
+			(xy 63.5 73.66) (xy 63.5 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6611,17 +6611,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 86.36) (xy 26.67 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37264980-b821-4581-b6ea-8ae10958191f")
-	)
-	(wire
-		(pts
-			(xy 78.74 264.16) (xy 78.74 86.36)
+			(xy 78.74 264.16) (xy 78.74 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6641,17 +6631,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 82.55) (xy 63.5 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbc66867-92ed-4cce-82ab-5a382302c553")
-	)
-	(wire
-		(pts
-			(xy 78.74 86.36) (xy 26.67 86.36)
+			(xy 78.74 81.28) (xy 63.5 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7261,7 +7241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-power_12and5V-0.3:power_12and5V"
+		(property "Footprint" "0.3:power_12and5V"
 			(at 45.72 41.91 0)
 			(hide yes)
 			(show_name no)
