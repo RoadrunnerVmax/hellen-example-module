@@ -1,4 +1,10 @@
 (fp_lib_table
   (version 7)
-  (lib (name "0.7")(type "KiCad")(uri "C:/Users/VMWin10/Documents/GitHub/hellen-example-module/hellen-one/modules/mega-mcu144/0.7")(options "")(descr ""))
+  (lib (name "MCU144 v0.7")(type "KiCad")(uri "C:/Users/VMWin10/Documents/GitHub/hellen-example-module/hellen-one/modules/mega-mcu144/0.7")(options "")(descr ""))
+  (lib (name "k-data Mechanik")(type "Eagle")(uri "${KIPRJMOD}/EagleLBR/k-data Mechanik.lbr")(options "")(descr ""))
+  (lib (name "kdFiFootprint")(type "KiCad")(uri "${KIPRJMOD}/kdFiFootprint.pretty")(options "")(descr ""))
+  (lib (name "CAN v0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/can/0.1")(options "")(descr ""))
+  (lib (name "PWR v0.3")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/power_12and5V/0.3")(options "")(descr ""))
+  (lib (name "IN v0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/input/0.1")(options "")(descr ""))
+  (lib (name "IGN8 v0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/ign8/0.2")(options "")(descr ""))
 )
