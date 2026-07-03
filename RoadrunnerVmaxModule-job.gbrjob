@@ -5,11 +5,11 @@
       "Application": "Pcbnew",
       "Version": "10.0.4"
     },
-    "CreationDate": "2026-07-03T13:07:59+02:00"
+    "CreationDate": "2026-07-03T13:53:01+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RoadrunnerVmaxModule01",
+      "Name": "RoadrunnerVmaxModule",
       "GUID": "526f6164-7275-46e6-9e65-72566d61784d",
       "Revision": "rev?"
     },
@@ -31,47 +31,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "RoadrunnerVmaxModule01-F_Cu.gbr",
+      "Path": "RoadrunnerVmaxModule-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-B_Cu.gbr",
+      "Path": "RoadrunnerVmaxModule-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-F_Paste.gbr",
+      "Path": "RoadrunnerVmaxModule-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-B_Paste.gbr",
+      "Path": "RoadrunnerVmaxModule-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-F_Silkscreen.gbr",
+      "Path": "RoadrunnerVmaxModule-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-B_Silkscreen.gbr",
+      "Path": "RoadrunnerVmaxModule-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-F_Mask.gbr",
+      "Path": "RoadrunnerVmaxModule-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-B_Mask.gbr",
+      "Path": "RoadrunnerVmaxModule-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RoadrunnerVmaxModule01-Edge_Cuts.gbr",
+      "Path": "RoadrunnerVmaxModule-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

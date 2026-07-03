@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RoadrunnerVmaxModule01.kicad_pro",
+    "filename": "RoadrunnerVmaxModule.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "RoadrunnerVmaxModule01.kicad_sch",
-        "name": "RoadrunnerVmaxModule01",
+        "filename": "RoadrunnerVmaxModule.kicad_sch",
+        "name": "RoadrunnerVmaxModule",
         "uuid": "1f04819a-66a9-4c57-a0ea-927897cf3cc6"
       }
     ],
