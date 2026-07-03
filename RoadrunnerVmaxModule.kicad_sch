@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "1f04819a-66a9-4c57-a0ea-927897cf3cc6")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "mega-mcu144:Module-mega-mcu144-0.7"
 			(exclude_from_sim no)
@@ -3678,16 +3678,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(wire
-		(pts
-			(xy 105.41 264.16) (xy 78.74 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1b09207-8cac-403a-878d-1080b0dfd345")
-	)
 	(symbol
 		(lib_id "mega-mcu144:Module-mega-mcu144-0.7")
 		(at 97.79 31.75 0)
@@ -4240,7 +4230,7 @@
 			(uuid "bcf6ceaa-2b8f-4094-9b9d-ee902ccb8c12")
 		)
 		(instances
-			(project "RoadrunnerVmaxModule01"
+			(project "RoadrunnerVmaxModule"
 				(path "/1f04819a-66a9-4c57-a0ea-927897cf3cc6"
 					(reference "M1")
 					(unit 1)
